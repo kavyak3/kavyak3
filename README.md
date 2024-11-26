@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/kavya-kuntumalla-01230123">
+  <a href="https://www.linkedin.com/in/kavya-kuntumalla-01230123">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/kavyak3/">
