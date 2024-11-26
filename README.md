@@ -16,6 +16,21 @@
 </h1>
 </div>
 
+### :man_technologist: About Me :
+<div id="aboutme" align="center">
+  <p>Welcome to my GitHub profile! I am a passionate Data Analyst, skilled in analyzing data from diverse sources to extract valuable insights. With expertise in SQL, Excel, Python and data visualization tools like Power BI, I am dedicated to helping businesses optimize their decision-making processes and achieve their goals.</p>
+</div>
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+   <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://static.vecteezy.com/system/resources/previews/022/101/030/original/microsoft-excel-logo-transparent-free-png.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+   <img src="https://www.coolblue.com/wp-content/uploads/2022/09/Microsoft-Power-BI-Symbol.png" title="PowerBI" alt="PowerBI" width="65" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
 
 
 
