@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/1vlBgKjXEz1jTtsuiH" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH">via GIPHY</a></p>" width="100"/>
+  <img src="https://giphy.com/embed/1vlBgKjXEz1jTtsuiH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH" width="100"/>
 </div>
 <div id="badges">
   <a href="www.linkedin.com/in/kavya-kuntumalla-01230123/">
