@@ -17,7 +17,7 @@
 </div>
 
 ### :man_technologist: About Me :
-<div id="aboutme" align="center">
+<div id="aboutme">
   <p>Welcome to my GitHub profile! I am a passionate Data Analyst, skilled in analyzing data from diverse sources to extract valuable insights. With expertise in SQL, Excel, Python and data visualization tools like Power BI, I am dedicated to helping businesses optimize their decision-making processes and achieve their goals.</p>
 </div>
 
