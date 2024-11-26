@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH" width="100"/>
+  <img src="https://giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="www.linkedin.com/in/kavya-kuntumalla-01230123/">
